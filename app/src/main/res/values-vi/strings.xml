@@ -283,7 +283,7 @@
     <string name="pref_title_remember_shuffle">Nhớ danh sách phát ngẫu nhiên</string>
     <string name="reset_action">Đặt lại</string>
     <string name="no_genres">Không có Thể loại</string>
-    <string name="pref_summary_remember_last_tab">Đi đến thẻ được mở lần cuối khi khởi chạy ứng dụgn</string>
+    <string name="pref_summary_remember_last_tab">Đi đến thẻ được mở lần cuối khi khởi chạy ứng dụng</string>
     <string name="pref_summary_remember_shuffle">Chế độ ngẫu nhiên sẽ luôn bật khi chọn một danh sách phát mới</string>
     <string name="saved_x_playlists_to_x">Đã lưu %1$d danh sách phát đến %2$s.</string>
     <string name="saved_x_playlists_to_x_failed_to_save_x">Đã lưu %1$d danh sách phát đến %2$s, không thể lưu %3$d.</string>
